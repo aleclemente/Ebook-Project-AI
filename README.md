@@ -78,4 +78,4 @@ Prompt:
 * Always explain simply  
 * Keep text concise  
 * Provide real-context code examples  
-* Create a name
+* Create a name"
